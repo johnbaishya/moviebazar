@@ -24,7 +24,6 @@ export default function MovieDetail() {
                             <Image 
                                 source={{ uri: posterImguri }} 
                                 style={{ width: '100%', height: '100%', borderRadius: 8 }}
-                                alt='Movie Poster'
                             />
                         </View>
                         <View style={{ flex: 1, justifyContent: 'center' }}>
