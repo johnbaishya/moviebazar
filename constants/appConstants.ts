@@ -1,0 +1,7 @@
+const appConstants = {
+  API_BASE_URL: "https://api.themoviedb.org/3",
+  API_ACCESS_TOKEN:"eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwNzUyNDRiNzQ3Y2JlOWNlOWQ4MTM3MGQxM2M2N2I0OSIsIm5iZiI6MTc1MTYxOTI4Mi4yNzYsInN1YiI6IjY4Njc5NmQyMjhiOTRmZjQ0YTdiN2FhZCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.MODlG3nnqjSDhlfoa8RHUnmcpJSjjDAcN4WniTx3XkI",
+
+}
+
+export default appConstants;
