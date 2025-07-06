@@ -15,6 +15,8 @@ Expo-router and Nativewind were already installed and configured.
 ### Steps to run the project
 - Clone the Project in local environment
 - Inside the root directory of the project execute commant "npm install"  to install all the required dependencies
+- Rename the file `constants/appConstants.example.ts` with `Constants/appConstants.ts` 
+- Update the file `appConstants.ts` with your custom constant variables.
 - Execute the following commands to run the project
     1. for android  - "npm run android"
     2. for ios - "npm run ios"
