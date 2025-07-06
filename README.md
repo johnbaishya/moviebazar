@@ -11,3 +11,11 @@ Expo-router and Nativewind were already installed and configured.
 - Search result list should display metadata for each movie (fulfilled)
 - clicking on a movie should display the details about that movie (fulfilled)
     - this can be in as a modal or a separate details screen (fulfilled)
+
+### Steps to run the project
+- Clone the Project in local environment
+- Inside the root directory of the project execute commant "npm install"  to install all the required dependencies
+- Execute the following commands to run the project
+    1. for android  - "npm run android"
+    2. for ios - "npm run ios"
+    3. for web - "npm run web"
